@@ -1,6 +1,6 @@
 /**
  * Created by Michael on 6/12/2015.
  */
-public class Main {
+public class View {
 
 }
